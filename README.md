@@ -1,6 +1,11 @@
 # 🧾 POS (Point of Sale) System — PHP & MySQL
 
 A simple and efficient Point of Sale (POS) system built with **PHP** and **MySQL** This system helps manage products, inventory, and sales in small retail businesses.
+![Dashboard](assets/pos-002.PNG)
+![Login](assets/pos-001.png)
+![View-Apartments](assets/pos-003.png)
+![View-Payments](assets/pos-004.png)
+![View-Tenants](assets/pos-005.png)
 
 ---
 
