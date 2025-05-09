@@ -6,10 +6,10 @@ A simple and efficient Point of Sale (POS) system built with **PHP** and **MySQL
 
 ## 🚀 Features
 ![Dashboard](assets/pos-002.png)
-(assets/pos-001.png)
-(assets/pos-003.png)
-(assets/pos-004.png)
-(assets/pos-005.png)
+![Dashboard](assets/pos-001.png)
+![Dashboard](assets/pos-003.png)
+![Dashboard](assets/pos-004.png)
+![Dashboard](assets/pos-005.png)
 
 
 - 🧑‍💼 **Login**
