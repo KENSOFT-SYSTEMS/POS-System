@@ -6,7 +6,7 @@ A simple and efficient Point of Sale (POS) system built with **PHP** and **MySQL
 
 ## 🚀 Features
 
-- 🧑‍💼 **Admin Login Only**
+- 🧑‍💼 **Login**
   - Secure authentication
   - Session-based access control
 
