@@ -46,9 +46,4 @@ Support---donate---paypay---muthominyagah594@gmail.com
 - MySQL 5.7+  
 - Apache (XAMPP/WAMP/LAMP stack)
 
-### ⚙️ Setup Steps
 
-1. **Clone or Download the Project**
-   ```bash
-   git clone https://github.com/yourusername/pos-system.git
-   cd pos-system
